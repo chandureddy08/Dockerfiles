@@ -1,2 +1,2 @@
-ARG vesion
-FROM almalinux:${vesion}
+ARG version
+FROM almalinux:${version}
